@@ -13,6 +13,10 @@ All code is written in **Jupyter Notebooks**, and you can run it **cell by cell*
 
 ---
 
+## Our Workflow Overview
+![Overview](Fig/pipeline_overview.png)
+
+---
 ## File Structure
 
 ### 1.Codes
@@ -65,6 +69,3 @@ All code is written in **Jupyter Notebooks**, and you can run it **cell by cell*
 3. Make sure the `data/raw` and `data/prepared` folders are correctly placed.  
 4. After running all notebooks, the final predictions and figures will be generated in the `submission` and `output` folders.
 
----
-## Our Workflow Overview
-![Overview](Fig/pipeline_overview.png)
