@@ -68,8 +68,10 @@ All code is written in **Jupyter Notebooks**, and you can run it **cell by cell*
 
 ## Kaggle Submission Results
 
-- **AUC:** XXXX  
-- **Rank:** XXXX  
+**AUROC Scores**:
+
+- **Public Leaderboard**: 0.79709  
+- **Private Leaderboard**: 0.79588
 
 ---
 
