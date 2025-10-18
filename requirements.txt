@@ -7,3 +7,5 @@ scikit-learn
 scipy 
 git
 tqdm
+keras
+tensorflow
