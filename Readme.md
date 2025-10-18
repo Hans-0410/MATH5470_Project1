@@ -19,19 +19,32 @@ All code is written in **Jupyter Notebooks**, and you can run it **cell by cell*
 ---
 ## File Structure
 
-### 1.Codes
+### 1. Codes
 
 - `code_1_data_preprocessing_feature_engineering.ipynb`  
-  Data cleaning, missing value handling, feature engineering, and GRU score calculation.
+  Perform data cleaning, handle missing values, conduct feature engineering, and calculate GRU scores.
 
 - `code_2_LGBM.ipynb`  
-  Training LightGBM models on the prepared dataset, including hyperparameter tuning and cross-validation.
+  Train LightGBM models on the prepared dataset, including hyperparameter tuning and cross-validation.
 
 - `code_2_XGB.ipynb`  
-  Training XGBoost models on the prepared dataset, similar workflow to LightGBM.
+  Train XGBoost models on the prepared dataset using a workflow similar to LightGBM.
 
 - `code_3_Ensemble.ipynb`  
-  Combining predictions from LGBM and XGB models via ensemble methods.
+  Combine predictions from LGBM and XGB models using ensemble techniques.
+
+- `bbal_gru_score.ipynb`  
+  Generate GRU scores for the bureau balance table.
+
+- `cc_gru_score.ipynb`  
+  Generate GRU scores for the credit card balance table.
+
+- `inst_gru_score.ipynb`  
+  Generate GRU scores for the installments payments table.
+
+- `pos_gru_score.ipynb`  
+  Generate GRU scores for the POS-CASH balance table.
+
 
 ### 2.Data
 
